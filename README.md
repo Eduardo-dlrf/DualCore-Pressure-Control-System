@@ -8,7 +8,7 @@
 An industrial-grade multi-core embedded platform designed in collaboration with **John Deere** to resolve dynamic tire inflation requirements across varying agricultural terrains (urban, mud, paved, and field environments). Powered by an **STM32H745ZIT3** micro-controller, the system implements an **Asymmetric Multiprocessing (AMP)** model to segregate deterministic real-time control laws from high-abstraction application workflows.
 
 ## 📊 Project Metadata
-* **Timeline:** 5th Semester - Advanced Embedded Systems Design Class (December 2022)
+* **Timeline:** Advanced Embedded Systems Design Class (December 2022)
 * **Corporate Partner:** John Deere
 * **Target Hardware:** Dual-Core ARM Cortex-M7 (480 MHz) & Cortex-M4 (240 MHz)
 * **Engineering Focus:** Asymmetric Processing Cores, Hardware Synchronization, Next-Gen Automotive Networks (FDCAN), Closed-Loop Industrial Control.
